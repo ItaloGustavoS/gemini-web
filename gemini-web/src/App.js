@@ -12,6 +12,12 @@ const App = () => {
           {!Error && <button>Enviar</button>}
           {Error && <button>Apagar</button>}
         </div>
+        {error && <p>{error}</p>}
+        <div className="search-result">
+          <div key={""}>
+            <p classname="answer"></p>
+          </div>
+        </div>
       </section>
     </div>
   );
