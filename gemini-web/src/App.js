@@ -30,7 +30,13 @@ const App = () => {
           history: chatHistory,
           message: value,
         }),
+        headers: {
+          "Content-Type": "application/json",
+        },
       };
+      const response = await fetch("http: //localhost:8000/gemini", options);
+      const data = await response.text();
+      console.log(data);
     } catch (error) {
       console.error(error);
       setError(
