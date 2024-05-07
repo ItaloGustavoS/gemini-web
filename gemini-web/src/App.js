@@ -34,7 +34,7 @@ const App = () => {
           "Content-Type": "application/json",
         },
       };
-      const response = await fetch("http: //localhost:8000/gemini", options);
+      const response = await fetch("http://localhost:3000/gemini", options);
       const data = await response.text();
       console.log(data);
       setChatHistory((oldChatHistory) => [
@@ -82,7 +82,7 @@ const App = () => {
       <div className="search-result">
         {chatHistory.map((chatItem, _index) => (
           <div key={_index}>
-            <p classname="answer">
+            <p className="answer">
               {chatItem.role} : {chatItem.parts}
             </p>
           </div>
