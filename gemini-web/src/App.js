@@ -57,10 +57,10 @@ const App = () => {
           placeholder="Quando e o Natal...?"
           onChange={(e) => setValue(e.target.value)}
         />
-        {!Error && <button>Enviar</button>}
+        {!Error && <button onClick={getResponse}>Enviar</button>}
         {Error && <button>Apagar</button>}
       </div>
-      {error && <p>{error}</p>}
+      {Error && <p>{Error}</p>}
       <div className="search-result">
         <div key={""}>
           <p classname="answer"></p>
