@@ -1,5 +1,6 @@
 const PORT = 3000;
 const express = require("express");
+const cors = require("cors"); // Importe o cors
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -9,7 +10,8 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_GEN_AI_KEY);
 
-app.post("/gemini", async (req, res) => {
+app.post("/", async (req, res) => {
+  console.log("Recebido uma solicitação POST para /");
   const model = genAI.getGenerativeModel({ model: "gemini-pro" });
 
   const chat = model.startChat({

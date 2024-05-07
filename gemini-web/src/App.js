@@ -34,7 +34,7 @@ const App = () => {
           "Content-Type": "application/json",
         },
       };
-      const response = await fetch("http://localhost:3000/gemini", options);
+      const response = await fetch("http://localhost:3000", options);
       const data = await response.text();
       console.log(data);
       setChatHistory((oldChatHistory) => [
