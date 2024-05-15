@@ -1,0 +1,200 @@
+ The rear part of housing must be removed before the impact rockers can be taken out:
+ Remove the hexagon head bolts M 30 (46 mm across flats) from the flanges.
+ Sling the rear part of housing (weight approx. 10600 kg) to a suitable hoisting gear.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Remove the pin from the zone of pivot point of rear part, Ø120x450, followed by removal of the rear part
+of housing.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Remove the pin of the respective adjusting device, Ø100x620.
+Note that the impact rockers must be laterally jammed beforehand to avoid
+oscillation.
+IMPORTANT
+ Sling the rocker (weight of upper rocker: 8258 kg; weight of lower rocker: 5840 kg) through the upper
+inspection flaps to a suitable hoisting gear.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 52 of 62 File name: 109794_M6_CS_EN.docx
+ Remove the bolts (M24 – 36 mm across flats) and the pins.
+ Take out both pins Ø315x552 of the upper impact rocker suspension.
+ Turn the impact rockers. The covers of bores must be replaced.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Re-assemble the unit in reversed order under observance of following instructions:
+After installation make sure that the blow bars do not contact with impact rockers.
+If necessary, re-adjust the appropriate crushing gaps.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 53 of 62 File name: 109794_M6_CS_EN.docx
+1.7.5 Replacement of Wear Plates
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+ Open the housing rear part (see Chapter 1.7.2)
+Housing rear part Undo fastening
+screws
+Wear plate
+ Use the rotor arresting bolt to secure the rotor (at the free shaft end)
+ Undo the fastening screws between the wear plate and carrying frame
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 54 of 62 File name: 109794_M6_CS_EN.docx
+Wear plates
+Undo fastening
+screws
+ When replacing the wear plates, note the following torques for tightening:
+ Side wearing plates with hexagon head bolts M20 – torque for tightening 400 Nm
+ Side wearing plates with hexagon head bolts M30 – torque for tightening 1450 Nm
+ Side wearing plates with hexagon head bolts M36 – torque for tightening 2100 Nm
+The housing wear plates installed in the area of crushing radius of the rotor are
+subject to severe wear. Therefore, these wear plates must be checked more
+frequently for tight fit and wear condition.
+IMPORTANT
+When re-installing, the hexagon head bolts must be inserted with a bolt securing
+adhesive (e.g. Loctite).
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 55 of 62 File name: 109794_M6_CS_EN.docx
+1.7.6 Adjustment of Crushing Gap
+1.7.6.1 Principles
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+Check the crushing result through regular analyses. Correct the gap width as
+appropriate in order to compensate wear.
+The final grain size distribution can be varied by operating the adjustment
+spindles for correction of the gap existing between rotor and impact rockers.
+IMPORTANT
+Adjusting device of
+upper impact rocker
+Adjusting device of
+lower impact rocker
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 56 of 62 File name: 109794_M6_CS_EN.docx
+1.7.6.2 Adjusting the crushing gap
+The final grain size distribution can be varied by operating the adjustment spindles for correction of the gap
+existing between rotor and impact rockers.
+Coarse final grain size: Large crusher gap width
+Fine final grain size: Small crusher gap width
+NOTE
+The following values have been pre-set by the manufacturer:
+Crusher gap A: 250 mm
+Crusher gap B: 150 mm
+Adjustment procedures must be carried out evenly to ensure the parallelism of
+impact rockers relative to the rotor axis!
+IMPORTANT
+Depending on the material to be crushed, the crusher gap pre-set by the
+manufacturer may be required larger or smaller. The gap width actually required
+should be determined on site.
+NOTE
+1.7.6.2.1 Increasing the gap
+ With the machine at rest, evenly loosen the external adjustment nuts II on both adjustment spindles by one
+turn in counterclockwise direction.
+ After that, tighten both external adjustment nuts I of both adjustment spindles gradually and evenly up to one
+turn in clockwise direction.
+The thread of adjustment spindles has a pitch of 6 mm. One turn of adjustment nut
+corresponds to a correction of the impact rocker by some 10 mm.
+IMPORTANT
+ Repeat this operation in parallel on both adjustment spindles until the desired crushing gap is obtained.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 57 of 62 File name: 109794_M6_CS_EN.docx
+upper impact rocker
+external adjustment nut II
+external adjustment nut I
+lower impact rocker
+Adjustment spindles of impact rockers
+1.7.6.2.2 Decreasing the gap
+ With the machine at rest, evenly loosen the external adjustment nuts II on both adjustment spindles by one
+turn in counterclockwise direction.
+ After that, loosen both external adjustment nuts I slowly and gradually up to one turn in counterclockwise
+direction.
+ The mass centre of gravity of impact rockers has been designed so that they may slew in by themselves.
+The thread of adjustment spindles has a pitch of 6 mm. One turn of adjustment nut
+corresponds to a correction of the impact rocker by some 10 mm.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 58 of 62 File name: 109794_M6_CS_EN.docx
+ Repeat this operation in parallel on both adjustment spindles until the desired crushing gap is obtained.
+1.7.6.2.3 Securing the new gap
+ Once the desired gap width is reached in each single case, tighten the external adjustment nut I gradually
+and evenly and lock it with the external adjustment nut II.
+ Operate the rotor by „HAND“ and check if the blow bars are free, t.i., they do not collide with other parts.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 59 of 62 File name: 109794_M6_CS_EN.docx
+1.7.7 Pre-tensioning and Re-tensioning of V-belts
+For documentation of the V-belts see Manual 7, Register 7.3.2.
+NOTE
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+ Use the rotor arresting bolt to secure the rotor (at the free shaft end).
+ Undo the bolted connections between the tensioning frame and the sliding blocks of tensioning rails.
+Tensioning frame
+V-belts
+Tensioning rail
+Tensioning spindle
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 60 of 62 File name: 109794_M6_CS_EN.docx
+ The tensioning or relieving operation itself is made by means of the three outside tensioning spindles M48
+(75 mm across flats). To avoid distortion of the tensioning frame, the tensioning spindles must be operated
+evenly.
+ Mark the measuring distance „M“ (1000 mm) on the free V-belt.
+ Now tension the V-belts until the measuring distance „M“ of 1000 mm set during initial installation
+increases to 1009 mm. In this case the drive is under the correct tension.
+ If the drive must be re-tensioned, the V-belts must be relieved from tension again so that they can be
+re-measured in a tension-free condition. Mark the measuring distance „M“ (1000 mm) on the free back
+of V-belt. Now tension the V-belts until the measuring distance „M“ increases from 1000 mm to 1006
+mm. Thus, the drive is re-tensioned correctly.
+WARNING, DANGER OF SQUEEZING INJURIES
+During displacement of drive station note that distances are changing. The risk of
+bruising of limbs is present.
+WARNING
+ After the tensioning operation, be sure that the six fastening bolts of tensioning frame are retightened with a
+torque of approx. 2100 Nm.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 61 of 62 File name: 109794_M6_CS_EN.docx
+1.7.8 Checklist to Be Processed Prior to Start of Crusher
+Following inspections are required after completion of repair work and prior to start
+of impact crusher:
+NOTE
+Item Commissioning
+Inspection item Date Operator
+No. Fitter
+1 Check if all transport locks (marked red) are
+removed
+2 Check if rotor blocking pin is removed
+3 Check if housing is closed
+4 Verify correct bearing lubrication and greasing
+of all friction points
+5 Check the correct gap width
+6 Check if machine is clean and free from foreign
+objects
+7 Check if drive components are in true alignment
+8 Inspect the flexible coupling elements
+9 Check if sense of rotation of motor and rotor is
+correct
+10 Check if sense of rotation of hydraulic motor is
+correct
+11 Check if bolts are seated correctly
+12 Start the machine in no-load condition
+13 Note the operational sequence of machine
+start-up and machine shut-down
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 62 of 62 File name: 109794_M6_CS_EN.docx

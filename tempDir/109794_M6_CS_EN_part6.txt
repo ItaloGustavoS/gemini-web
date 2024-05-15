@@ -1,0 +1,170 @@
+ Prior to disassembly, make sure that the drive unit is switched off and secured against unintended start-up.
+ Disconnect all cables of the drive unit.
+ Sling the drive unit to a suitable hoisting gear (approx. weight is 320 kg) and secure it against tilting over.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Remove the cover cap of the shrink disc
+ Loosen the locking screws of the shrink disc evenly and one after the other (see Operating Instructions for
+the Gear Unit).
+ Undo the fasteners of the torque support.
+ Undo the screwed connections between the gear flange and geared motor
+ Pull off carefully the geared motor and pull off the shrink disc (see Operating Instructions for the Gear Unit).
+ Lift the drive unit and put it down on the ground.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Bring the components to the repair site for further disassembly.
+ Re-assemble the unit in reversed order under observance of following instructions:
+ The torque for tightening of tensioning bolts is 59 Nm.
+During re-assembly of the geared unit note the installation instructions for the
+shrink disc (see Assembly and Operating Instructions for the gear unit, chapter
+4.7, type KHF107) and the cover cap of the shrink disc must be re-installed as well!
+IMPORTANT
+ Restore all electrical connections.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 35 of 62 File name: 109794_M6_CS_EN.docx
+Locking collar Correct position of the
+A shrink disc
+Locking screw Inner ring
+After reassembly inspect the gear unit oil level in accordance with the lubrication
+schedule. Add oil if needed.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 36 of 62 File name: 109794_M6_CS_EN.docx
+1.6.2 Replacement of Drive Shaft with Sprocket Wheels
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the spillage conveyor, the adjacent apron feeder and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Prior to disassembly, make sure that the drive unit is switched off and secured against unintended start-up.
+ Dismantle the drive unit of spillage conveyor before taking out the drive shaft (see Chapter 1.6.1).
+Steel structure of spillage conveyor
+Drive shaft
+Bearing
+Dismantle the drive unit
+ Relieve the conveying chains from tension (see Chapter 1.6.6).
+ Remove the cover of bearing.
+ Secure the drive shaft (approx. 333 kg) by means of a hoisting gear (e.g. a chain hoisting tackle)
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 37 of 62 File name: 109794_M6_CS_EN.docx
+ Use the hoisting gear to lift out the drive shaft and to thread it out of the chain. If necessary, open the chains
+at the sprocket wheels.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Bring the components to the repair site for further disassembly.
+ Re-assemble the unit in reversed order under observance of following instructions:
+ Installation of drive unit (see Operating Instructions for geared motor).
+ Tensioning of chains after completion of all work (see Chapter 1.6.6).
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 38 of 62 File name: 109794_M6_CS_EN.docx
+1.6.3 Taking out Chain Segment / Scraper
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the spillage conveyor, the adjacent apron feeder and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Prior to disassembly, move the chain so that the chain segment to be replaced is positioned in the upper run.
+ Switch off the drive unit and secure it against unintended start-up.
+Scraper
+Chain lock
+Chain
+ Relieve the conveying chains from tension (see Chapter 1.6.6)
+ Clamp the chains to the left and right of the segment to be replaced.
+ Secure the scraper (weight approx. 33 kg) against falling down.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Remove fastening bolts on the chain locks.
+ After that, the scraper to be replaced or the chain segment (the chain lock on the opposite end of the
+segment to be replaced must also be opened) can be taken out.
+ Re-assemble the unit in reversed order under observance of following instructions:
+ Tensioning of chains after completion of all work (see Chapter 1.6.6).
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 39 of 62 File name: 109794_M6_CS_EN.docx
+1.6.4 Replacement of Take-up Tumbler Shaft with Sprocket Wheels
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the spillage conveyor, the adjacent apron feeder and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Remove the cover of the take-up station.
+ Advance the conveyor chain in a way so that the chain disconnection point (scraper bow at the scraper
+beam) is positioned frontally at the take-up tumbler.
+ Switch off the drive unit and secure it against unintended start-up.
+Frontal cover Scraper Compression spring
+Take-up spindle
+Sliding block
+Take-up tumbler shaft
+ Sling the frontal cover of the steel structure to a hoisting gear and remove it.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Relieve the conveying chains from tension (see Chapter 1.6.6).
+ Secure the chain strands on the both sides of scraper bow in their position.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 40 of 62 File name: 109794_M6_CS_EN.docx
+ Secure the scraper against falling down (weight approx. 33 kg).
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Open the chain by undoing the screwed connections on the both sides of scraper bow and put it safely
+down.
+ Use a suitable hoisting gear to fix the tensioning shaft (approx. weight: 145 kg).
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ After removing the tensioning spindle from the tensioning-shaft bearing, the tensioning shaft with sliding
+blocks can be pushed towards the frontal side and removed from the steel structure.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Bring the components to the repair site for further disassembly.
+ Re-assemble the unit in reversed order under observance of following instructions:
+- Install all front-side covers.
+- Establish the connection between the tensioning shaft bearing and the tensioning spindle.
+- Close the chain and tension it after completion of all work (see Chapter 1.6.6).
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 41 of 62 File name: 109794_M6_CS_EN.docx
+1.6.5 Replacement of Wear Rails
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the spillage conveyor, the adjacent apron feeder and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Prior to disassembly, switch off the drive unit and secure it against unintended start-up.
+Scraper guide
+Scraper
+Wear rail
+ Relieve the conveying chains (see Chapter 1.6.6).
+ Lift the scrapers and conveying chains in the zone of wear rails and scraper guide to be replaced by use of a
+suitable lifting device or by placing backing plates under the scrapers.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Once the fasteners are removed, the scraper guide and the wear rail may be taken out.
+ Re-assemble the unit in reversed order under observance of following instructions:
+ Install the wear rails.
+ Install the scraper guide.
+ Once the work is completed, tension the chain (see Chapter 1.6.6).
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 42 of 62 File name: 109794_M6_CS_EN.docx

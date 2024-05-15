@@ -1,0 +1,170 @@
+CAUTION, SUSPENDED LOADS!
+Nominate only well-experienced persons for suspension of loads and for giving
+instructions to the crane operator. The person giving instructions to the crane
+operator must be positioned so that it is in sight contact with the crane operator or
+may communicate with him through a radiotelephone set.
+When replacement of single parts or larger components is required, the parts must
+be safely fitted to the hoisting gear and handled so that all risks are excluded. Only
+suitable hoisting gears and load carrying attachments in technically sound
+condition and with sufficient hoisting capacity shall be used.
+DANGER
+For handling of plant components only the provided suspension points and marked
+eyebolts shall be used.
+Persons must not stay or work under suspended loads.
+It is prohibited to transport persons together with the load or on the load
+suspension devices.
+ATTENTION IN CASE OF WORK IN ELEVATED POSITIONS!
+Never use equipment parts for climbing.
+When work in overhead positions is required, use only tested and approved
+DANGER equipment for protection against falling down.
+In case of repair or maintenance work in elevated positions the workforce may fall
+down and suffer heavy injuries or even death.
+Therefore, use only approved climbing aids and working platforms.
+DANGER DUE TO BLOCKED ESCAPE ROUTES
+DANGER Keep escape routes free from all obstacles: never put down or store components in
+escape routes and observe the applicable safety rules.
+Damage to the paint must be eliminated according to the paint specification after
+having finished maintenance works.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 6 of 62 File name: 109794_M6_CS_EN.docx
+1.2 Ropes and Rope Fixtures
+ Ropes must be kept under supervision while they are in operation and while they are not used. This is
+applicable not only to the ropes but also to the rope fixtures, rope connections and rope guides.
+ In case of wire rope fixtures, the specified number of rope clips must not be reduced.
+Nominal size (rope) Required torque for Tensile force required Required number of
+tightening in the rope clip thread wire rope clips
+[Nm] [N]
+5 2,20 2300 5
+6,5 3,85 3200 5
+8 6,60 4700 6
+10 9,90 7100 6
+13 36,30 15400 6
+16 53,90 21000 6
+19 74,47 28900 6
+22 117,70 40800 7
+26 161,70 47600 7
+30 233,20 62300 8
+34 325,60 79200 8
+40 399,30 89800 8
+1.3 Torques for Tightening of Bolts
+Bolt size Bolt property class 10.9 Bolt property class 8.8
+Tightening moment to be applied Tightening moment to be applied
+M [Nm] M [Nm]
+A A
+M8 20
+M10 40
+M12 100 70
+M16 250 170
+M20 450 300
+M22 650 450
+M24 800 600
+M27 1250 900
+M30 1650 1200
+M36 2800 2100
+MA = Required torque for tightening with torque wrench
+All torques for tightening are applicable to bolts with metric thread according DIN 13, nut with MoS
+2
+treated
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 7 of 62 File name: 109794_M6_CS_EN.docx
+1.4 Repair
+1.4.1 Basic Safety Notes
+DANGER FOR THE STABILITY!
+All repair work must be realized only at wind speeds up to maximum 5 m/s. During
+the repairs, the wind speed must not exceed 10 m/s!
+DANGER
+DANGER DUE TO UNINTENDED RE-START!
+Prior to repair, the conveying routes affected and upstream conveyors of machines
+must be made empty. Suitable actions are required to ensure that such equipment
+cannot be started by mistake.
+DANGER Starting of the electrical or hydraulic drives of the assembly groups that are being
+worked on, must be excluded.
+DANGER FOR THE STABILITY!
+In case repair work technology makes it necessary to erect piles between ground
+level and machine, the load carrying capacity of soil must be calculated before the
+piles are erected (the permitted ground pressure need to be complied).
+The piles must be erected on a ground level sufficiently able to take the maximum
+load.
+The size of the piles must be selected according to the permitted ground pressure
+DANGER and the imposed load.
+The piles must be secured against overturning.
+In this process need to be ensured that the piles are positioned vertically and
+centrically under the support points.
+DANGER FOR THE STABILITY!
+In case of using mobile lifting devices, the load carrying capacity of soil must be
+calculated before (the permitted ground pressure need to be complied).
+DANGER
+DANGER DUE TO OBJECTS FALLING DOWN!
+For all repair works it is forbidden to stay under the repair area! This area has to be
+closed off across a large area.
+DANGER Falling objects may cause severe bodily injury or loss of life.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 8 of 62 File name: 109794_M6_CS_EN.docx
+WARNING! RISK OF INJURIES CAUSED BY SPRING TENSION/CHAIN TENSION!
+When installing or removing components under mechanical stresses, persons might
+suffer injuries and equipment parts may become damaged or even destroyed.
+Before performing work on such components suitable action should be taken to
+DANGER exclude such potential risks.
+RISK OF SQUEEZING-OFF LIMBS
+The conveying belt is always under tension, even while a belt conveyor is switched
+off. In the case of works where the conveyor belt exerts a direct or indirect effect,
+pretension must be neutralized by relieving the conveyor belt before starting the
+work. This might result in a short movement of the conveyor belt and the take-up
+DANGER device.
+RISK OF SQUEEZING-OFF LIMBS
+For all belt-drive repair works suitable measures (e.g. belt clamps) have to be used
+to secure the conveyor belt against self-actuated movement.
+DANGER
+DANGER DUE TO MISSING OR NOT CORECTLY INSTALLED SAFETY APPLIANCES
+After repair all safety devices must be checked for mounting and function and a
+start-up test without transported material must be realized!
+DANGER
+DANGER FOR THE STABILITY!
+Repair works at
+ Spherical bearings of the bridge segments
+ Hoisting -and levelling cylinder
+ Main carrying construction
+As well as the disassebly of machine parts of the crawler drive notably affect the
+DANGER stability of the entire plant. That is why these works may only be carried out after
+having consulted the company FAM and only by qualified maintenance personnel.
+Non-observance of this instruction may lead to damages at the plant, severe or even
+fatal injuries.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 9 of 62 File name: 109794_M6_CS_EN.docx
+In case of repair where fitting bolts or fitting bolt connections are to be removed,
+the parts concerned shall be properly marked so that they can be re-installed in
+the correct positions!
+If the fitting bolt connections have been removed, in the course of reassembly
+they should be replaced by new bolts with a thicker fitting shaft. Conjointly the
+IMPORTANT holes should be bored to a larger size.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 10 of 62 File name: 109794_M6_CS_EN.docx
+1.5 Apron Feeder AF 2200X15
+1.5.1 Replacement of Drive Unit
+For documentation of the drive unit see Manual 7, Register 7.1.1.
+NOTE
+POTENTIAL HAZARDS CAUSED BY ELECTRIC POWER
+POTENTIAL RISK OF AUTOMATIC OR UNINTENDED START OF MACHINE
+Only qualified electricians should carry out work on the power supply system.
+DANGER Make sure that machine and plant equipment subject to compulsory inspections,
+repair and maintenance work are isolated from power before such work is carried
+out. To be sure, check the isolated equipment items if they are still under voltage.
+Earth and short-circuit them and isolate other equipment in the vicinity from power
+supply.
+DANGER
+Prior to all repair and erection work, the equipment and its components should be
+isolated from power supply so that drives cannot be started by mistake while repair
+work is carried out.
+All cable connections of components to be replaced must be disconnected. After
+reassembly, cable connections must be made again!
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Loosen the cover of
+torque support
+Loosen the shrink disk
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 11 of 62 File name: 109794_M6_CS_EN.docx

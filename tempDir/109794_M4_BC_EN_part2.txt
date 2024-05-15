@@ -1,0 +1,128 @@
+1.2 Belt Conveyors BC U1 – U5
+The belt conveyor system performs transport of the coal received from the semi-mobile crushing equipment
+and delivers it to the secondary crushing equipment. The conveyor system consists of a continuous belt
+conveyor line involving conveyors U-1 to U-5 with a capacity of 1000 t/h and common final length of approx.
+2901 m.
+Almost at the end of the conveyor line, at the conveyor U-5, additional equipment is installed to check the
+incoming bulk material and to hold it clean. These are:
+ 1 magnetic separator,
+ 2 metal detectors before and after the separator and
+ 1 belt scale.
+The belt conveyors are the key drives for material handling. These drives are only switchable from the local
+repair switch to enable the repair operation outside of interlocking. Further, each belt conveyor can be
+separately locked in manual mode when the following conveyor is running. If all conditions are met, all
+conveyors in the conveying line in the semi-automatic operation start counter to the conveying direction and
+stop in the conveying direction.
+In the locked and semi-automatic operation, separate and independent switching of individual promoters
+within the line is not possible. The sequence described above is observed in all cases.
+In an emergency situation the system can be immediately shut-down by opening the emergency stop loop.
+This can be done by pulling a ripcord or by pressing a hardware red mushroom emergency stop button or a
+virtual red mushroom emergency stop button on a monitor in the control room.
+The boot process is delayed by the respective start-warning time.
+The stop operation is also delayed as a function of the belt speed and the effective length of the upper belt
+run to secure emptying of the conveyor in order to guarantee normal operation.
+Figure 2: Example of belt conveyor
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 5 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.1 Intermediate Belt Conveyor U-1
+1.2.1.1 General
+The belt conveyor U1 is a functional component of the coal conveying system between the semi-mobile
+crushing station and the second crushing plant. From the crushing station the crushed coal is transferred to
+the belt conveyor U1 which transports the material further to the hopper of the belt conveyor U2.
+The conveyor U1 is a relocated conveyor with an elevating structure. Depending on the mining progress, it
+can be shifted together with the semi-mobile crushing station. The belt conveyor U1 consists basically of the
+following components:
+ Main frame,
+ Drive station with drive pulley,
+ Take-up station with take-up pulley,
+ Feeding hopper,
+ Discharge box with chute and adjustable baffle plate,
+ Carrying idler stations, conveyor belt and belt cleaners,
+ Safety devices.
+1.2.1.1 Conveyor frame
+The conveyor frame directing the conveyor belt between the drive station and the take-up station is designed
+as a welded and bolted steel framework construction. The steel construction rests in the rear part on a
+pontoon. On the other side the frame is held by a support which is connected with the main frame via pins. At
+the support bottom a pontoon is installed. Both pontoons are connected by an intermediate cross bar via pins.
+The rear pontoon has a centering and is thus located centrally under the crusher chute.
+The conveyor between the crusher chute and the discharge box is protected by guard covers.
+The conveyor is furnished with walkways which provide safe access to the components requiring regular
+maintenance as well as in case if corresponding operational, service and inspection works are needed.
+Components which can endanger operation and maintenance personnel are equipped with effective and
+easily mount/dismountable protective devices/guards.
+1.2.1.2 Drive station with discharge box
+The drive station is located in the head part (heading section) of the U1. It includes a discharge pulley and a
+discharge box which are mounted on the conveyor frame. The discharge pulley is also the drive pulley whose
+pillow blocks are connected with the frame. The shaft end of the drive pulley is furnished with a coupling half.
+The drive pulley is equipped with one drive unit which is installed laterally on the right side next to the frame.
+The shaft of the gear unit is connected with the shaft of the drive pulley via a flange coupling.
+The power transmission between the motor and the gear unit is effected via a flexible coupling. The drive unit
+is mounted on a torsion-resistant swing base which is fastened to the drive pulley via the flange coupling and
+held on the main frame by a torque support on the motor side. A steel beam installed under the swing base
+serves as a support beam and shaft break safety. In addition, the drive unit is equipped with a backstop.
+For cleaning of the belt after discharge, one pre-scraper and one main scraper are provided.
+The discharge box is designed as a welded and bolted steel construction. Inside the discharge box, an
+adjustable baffle plate is provided to direct the coal flow centrally on the downstream conveyor belt U2.
+Sliding surfaces coming in contact with the transported material are lined with Hardox wear plates.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 6 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.1.3 Take-up station
+The take-up station is a spindle-operated tensioning station consisting of a moveable take-up sledge, a belt
+pulley and two take-up spindles. The conveyor belt coming from the drive pulley is guided in the lower run
+over carrying idler stations to the take-up sledge. The necessary belt pre-tension is reached by shifting the
+take-up sledge with the pulley by means of the spindles and spindle nuts.
+The sledge and the take-up spindles are installed in the steel construction. The tension way is built by two
+longitudinal beams which are welded to the frame on both sides. Lift-off restraints hold the take-up sledge on
+the longitudinal beams. The pedestal bearings of the take-up pulley are fastened on the take-up sledge.
+When installing the belt, the sledge should be brought into a definite position depending on the take-up way
+and secured there.
+The necessary pre-tension of the conveyor belt is effected by a mechanical pre-stressing (note the belt sag!).
+If due to the belt elongation the belt tension changes, it must be corrected by the take-up spindles.
+Before the take-up pulley, an inside belt cleaner is installed.
+1.2.1.4 Feeding box
+The feeding box is located in the tail part (end section of U1) and is used for receiving of conveyed material
+from the crusher chute and spillage from the apron feeder. The feeding box is designed as a stable welded
+and bolted steel construction which rests on the steel substructure.
+The lateral walls of the hopper are lined with wear plates. The feeding box is sealed on both sides along the
+belt by adjustable rubber strips.
+In the feeding zone, reinforced carrying idler stations are applied with idler spacing of 300 mm. The feeding
+idler stations are fastened by means of bolted connections.
+The rubber curtains mounted in the feeding hopper are intended to reduce dust emissions.
+The hopper is protected by covers.
+1.2.1.5 Pulleys
+The drive pulley has herringbone rubber lining and is supported by pillow blocks with anti-friction bearings
+with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+The take-up pulley has plain rubber lining and is supported by pillow blocks with antifriction bearings with
+adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+1.2.1.6 Idlers
+Rigid carrying idler stations consist of three idlers with equal length. The idlers are rigidly fastened to the idler
+supports. Rigid return idler stations consist of two idlers with equal length. The return run stations have rubber
+disc idlers in order to present very narrow surfaces for adhesion and thus to reduce the tendency for material
+build up. The idlers are rigidly fastened to the idler supports. Transfer points are equipped with impact idler
+stations with rigid fixtures.
+Idlers of the same type are interchangeable. The bearings are lubricated for lifetime.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 7 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.1.7 Belt cleaning equipment
+The conveyor U1 is equipped with one primary and one secondary belt scrapers at the discharge pulley. A V-
+type plow scraper over the full belt width is installed in the return run before the take-up pulley, where material
+can be caught between the belt and pulley. The V-type plow scraper is mounted in a way preventing the steel
+frame from reaching the belt after the wiper rubber has completely worn down.
+All pulleys in contact with the dirt side of the belt have a pulley scraper to remove adhering material from the
+pulley.
+1.2.1.8 Safety devices
+All exposed rotating parts with the exception of the idlers are protected against accidental contact by boxes,
+wire mesh guards or railings.
+In cases of emergency the equipment can be turned off by means of emergency switches with relevant pull
+cords installed on both sides of the conveyor line. Actuation of the pull rope triggers immediately standstill of
+the conveyor and of the technologically interconnected conveying devices.
+Visual and acoustic start-up signals are provided by a warning lamp and a horn.
+Safety and warning devices include also:
+– Material feeding of conveyor,
+– Misalignment switch,
+– Speed sensor and/or slip controller,
+– Belt damage control,
+– Filling level sensor of discharge station,
+– Supplying of LED-lamps for the entire conveyor.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 8 of 25 File name: 109794_M4_BC_EN_.docx

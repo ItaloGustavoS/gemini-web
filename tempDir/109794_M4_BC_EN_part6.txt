@@ -1,0 +1,106 @@
+On the discharge side of the station, a discharge pulley and a discharge box are mounted on the frame. The
+discharge pulley is also the drive pulley whose pillow blocks are connected with the frame. Each shaft end of
+the drive pulley is furnished with a coupling half.
+The drive pulley on the discharge side is equipped with one drive unit which is installed laterally on the right
+side next to the frame. The shaft of the gear unit is connected with the shaft of the drive pulley via a flange
+coupling.
+The power transmission between the motor and the gear unit is effected via a flexible coupling. The drive unit
+is mounted on a torsion-resistant swing base which is fastened to the drive pulley via the flange coupling and
+held on the main frame by a torque support. In addition, the drive unit is equipped with a backstop.
+For cleaning of the belt after discharge, one pre-scraper and one main scraper are provided.
+The discharge box is designed as a welded and bolted steel construction. Inside the discharge box, an
+adjustable baffle plate is provided to direct the coal flow centrally on the downstream conveyor belt U5.
+Sliding surfaces coming in contact with the transported material are lined with Hardox wear plates.
+The tensioning device is a winch-operated take-up station which includes a take-up carriage, rope sheaves
+and a driven rope drum. The carriage and the rope sheaves are positioned in the framework construction, the
+rope drum with the drive unit are fastened on the frame. The conveyor belt coming from the drive pulley is
+directed in the lower run over the second drive pulley to the take-up carriage. The belt loops around the take-
+up carriage pulley and runs back in the lower run of the conveyor.
+The travel path of the take-up carriage is built by two longitudinal beams welded on both sides in the frame.
+The shiftable carriage whose take-up pulley deflects the conveyor belt has four travelling wheels. Further four
+horizontal wheels (excenter axis) hold the carriage in the track. The pillow blocks of the take-up pulley are
+screwed to the take-up carriage. Possible lifting of the take-up carriage is prevented by lift-off restraints. The
+travel way of the take-up carriage is secured by limit switches.
+The take-up rope is reeved and directed from the rope drum over rope sheaves to the take-up carriage. When
+installing the belt, the carriage should be brought into a definite position depending on the take-up way and
+secured there.
+The rope is provided with a rope force measuring device which controls and corrects the tension.
+The necessary pre-tension of the belt is reached electrically (the value is set). If due to the belt elongation the
+value changes, the rope drum control is actuated and the value is adjusted.
+The second drive pulley installed in the rear part is a one-side drive pulley whose pillow blocks are connected
+with the frame of the tail section. One shaft end of the drive pulley is furnished with a coupling half. The
+second drive pulley of the conveyor U4 is equipped with one drive unit which is installed laterally on the left
+side in the conveying direction next to the frame.
+The shaft of the gear unit is connected with the shaft of the drive pulley via a flange coupling.
+The power transmission between the motor and the gear unit is effected via a flexible coupling. The drive unit
+is mounted on a torsion-resistant swing base which is fastened to the drive pulley via the flange coupling and
+held on the main frame by a torque support.
+1.2.4.2 Return station with feeding hopper
+The return station with the feeding hopper is mounted on a pontoon. Under the pontoon an anchoring
+construction is embedded. The anchoring consists of a pivot plate, strings and two ground anchors. The
+pontoon and the pivot plate are connected via a pin of the plate.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 18 of 25 File name: 109794_M4_BC_EN_.docx
+The steel construction of the return station includes a frame and a hopper. It is a welded and partly bolted
+steel structure. The frame of the feeding hopper is fastened on the pontoon by means of bolted connections.
+The feeding hopper is located in the tail part (end section of U4) and is used for receiving of conveyed
+material from the belt conveyor U3. It is designed as a stable welded and bolted steel construction which is
+connected with the frame via bolted connections. The lateral walls of the hopper are lined with wear plates.
+The feeding box is sealed on both sides along the belt by adjustable rubber strips.
+The rubber curtains mounted in the feeding hopper are intended to reduce dust emissions. The hopper is
+protected by covers.
+In the feeding zone, reinforced garland stations are applied. The feeding garlands are fastened by pins with
+wedges. In the outlet zone the upper run garlands are hung.
+For belt directing, in the lower run a self-centring belt training station is provided as well as an inside belt
+cleaner and a diagonal scraper.
+The return pulley is precisely aligned and fastened on the frame via pillow blocks. It is covered by a protective
+hood to prevent access to the rotating parts.
+The return station with hopper are protected on both sides by guard gratings.
+1.2.4.3 Pulleys
+The drive pulleys have herringbone rubber lining and are supported by pillow blocks with anti-friction bearings
+with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+The return and take-up pulleys have plain rubber lagging and are supported by pillow blocks with antifriction
+bearings with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+1.2.4.4 Idlers
+Both the carrying run and the return run of the conveyor belt are supported by garland idlers. The carrying
+garland stations consist of three idlers with equal length and hook suspension. The V-type return garland
+stations consist of two idlers with equal length and chain suspension. The return run stations have rubber disc
+idlers in order to present very narrow surfaces for adhesion and thus to reduce the tendency for material build
+up. Transfer points are equipped by impact idler garlands with bolt and wedge suspension.
+Idlers of the same type are interchangeable. The bearings are lubricated for lifetime.
+1.2.4.5 Belt cleaning equipment
+The conveyor U4 is equipped with one primary and one secondary belt scrapers at the discharge pulley. A V-
+type plow scraper over the full belt width is installed in the return run before the take-up pulley as well as
+before the return pulley, where material can be caught between the belt and pulley. The V-type plow scraper
+is mounted in a way preventing the steel frame from reaching the belt after the wiper rubber has completely
+worn down.
+All pulleys in contact with the dirt side of the belt have a pulley scraper to remove adhering material from the
+pulley.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 19 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.4.6 Metal detector
+The metal detector is arranged in the construction of the drive/take-up station U4 and aimed to activate the
+following magnetic separator in case of detection of metal parts or non-ferromagnetic foreign bodies in the
+flow.
+The metal detector is composed of a frame with a search coil. The metal detector generates an
+electromagnetic field. If a metal object enters the field, the measurement signal is deflected in a certain
+direction. When the metal object leaves the field, a deflection occurs in the opposite direction. If both
+triggering limits of the signal are exceeded, the metal relay is switched.
+An electronic circuit with an adjustable trigger enables the detection and display of metal elements.
+1.2.4.7 Safety devices
+All exposed rotating parts with the exception of the idlers are protected against accidental contact by boxes,
+wire mesh guards or railings.
+In cases of emergency the equipment can be turned off by means of emergency switches with relevant pull
+cords installed on both sides of the conveyor line. Actuation of the pull rope triggers immediately standstill of
+the conveyor and of the technologically interconnected conveying devices.
+Visual and acoustic start-up signals are provided by a warning lamp and a horn.
+Safety and warning devices include also:
+– Limit switches for take-up way limit,
+– Travel limit of take-up carriage,
+– Misalignment switch,
+– Speed sensor and/or slip controller,
+– Belt damage control,
+– Filling level sensor of hopper,
+– Supplying of LED-lamps for the entire conveyor.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 20 of 25 File name: 109794_M4_BC_EN_.docx

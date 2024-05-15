@@ -1,0 +1,194 @@
+1.6.6 Tensioning the Chain
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the spillage conveyor, the adjacent apron feeder and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Tensioning of the chain and releasing of the tension is performed via take-up nuts at the take-up spindles.
+Tensioning and releasing of the tension must be carried out evenly on both
+tensioning bearings in order to avoid jamming.
+IMPORTANT
+Take-up nuts Compression spring Take-up spindle
+ After the lock nuts of the take-up spindle have been loosened, the take-up tumbler can be shifted by means
+of the tensioning screw.
+ The correct chain tension force is reached if the determined distance dimension between compression
+spring and take-up frame is set (spring tension = 207 mm).
+ Lock the lock nuts.
+ Test operation of the equipment without conveyed material.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 43 of 62 File name: 109794_M6_CS_EN.docx
+1.7 Impact Crusher PB 1822 PP
+1.7.1 Replacement of Drive Unit
+For documentation of the drive unit see Manual 7, Register 7.3.1.
+NOTE
+POTENTIAL HAZARDS CAUSED BY ELECTRIC POWER
+POTENTIAL RISK OF AUTOMATIC OR UNINTENDED START OF MACHINE
+Only qualified electricians should carry out work on the power supply system.
+DANGER Make sure that machine and plant equipment subject to compulsory inspections,
+repair and maintenance work are isolated from power before such work is carried
+out. To be sure, check the isolated equipment items if they are still under voltage.
+Earth and short-circuit them and isolate other equipment in the vicinity from power
+supply.
+DANGER
+Prior to all repair and erection work, the equipment and its components should be
+isolated from power supply so that drives cannot be started by mistake while repair
+work is carried out.
+All cable connections of components to be replaced must be disconnected. After
+reassembly, cable connections must be made again!
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+Motor 800 kW K8MR
+Coupling RWN 450
+V-belt pulley shaft
+Undo fastening bolts
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 44 of 62 File name: 109794_M6_CS_EN.docx
+ Prior to disassembly, make sure that the drive unit is switched off and secured against unintended start-up.
+ Remove all cable connections from the drive unit.
+ Disassemble the motor (note the instructions of manufacturer!):
+ Suspend the motor (approx. weight 6400 kg) on a suitable hoisting gear.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Detach the coupling so that the motor is free.
+ Undo the fastening bolts to the supporting structure.
+ Lift the drive unit and put it safely down on the ground.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Disassemble the coupling.
+ Sling the coupling (weight 520 kg) to a suitable hoisting gear.
+ Remove the coupling from the V-belt pulley shaft.
+ Bring the components to the repair site for further disassembly.
+ Re-assemble the unit in reversed order under observance of following instructions:
+ Note the tightening torques.
+ Restore all electrical connections.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 45 of 62 File name: 109794_M6_CS_EN.docx
+1.7.2 Opening the Crusher Housing
+For documentation of the hydraulic equipment see Manual 7, Register 7.3.3.
+NOTE
+The rear part of the housing may be hydraulically slewed back so that the interior
+space of crusher can be inspected and the blow bars can be replaced. When the
+rear part of the housing is slewed back, the distance between the flanges is about
+NOTE
+2039 mm.
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+ The impact crusher must be electrically interlocked in such a way that the drive motor cannot be started
+when the rear part of housing is opened.
+ Remove the fastening screws from the flanges between the fixed and moveable parts of the housing.
+ Open the manual valve of hydraulic opening device so that the hydraulic cylinders can gradually fold back
+the rear part of the housing. Use the safety bar for opening-up to secure the housing part in this position.
+When operating the hydraulic equipment, make sure that all doors and flaps are
+closed.
+IMPORTANT
+The machine should be opened, only granting the sight contact of the operator to
+the crusher.
+DANGER
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 46 of 62 File name: 109794_M6_CS_EN.docx
+Loosen fastening
+Housing rear part
+screws
+Opening device
+Safety bar for opening up
+ After opening, use the rotor arresting bolt to secure the rotor (at the free shaft end).
+ Closing of the housing rear part is performed in reversed order. Make sure that the housing flanges are
+clean.
+ Install the hexagon head bolts.
+After every fifth opening operation the locking nuts must be replaced by new
+items.
+IMPORTANT
+ Pull out the spring cotter so that the rotor arresting bolts can be removed and installed in their receptacle
+provided therefore. The inspection door in the hood should be opened. After that, install the spring cotter in
+the bore again.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 47 of 62 File name: 109794_M6_CS_EN.docx
+1.7.3 Replacement of Blow Bars
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+When replacing single blow bars, note that the blow bar on the opposite side must
+be replaced as well.
+IMPORTANT
+ Open the housing rear part (see Chapter 1.7.2)
+ Rotate the rotor until the blow bar to be replaced reaches the angle of approx. 67,5 degrees relating to the
+rotor (11 o´clock position).
+ Switch off the drive unit and secure it against unintended start-up.
+ Use the rotor securing pin (at the free shaft end) to arrest the rotor.
+Protective hood
+rotor securing unit
+Blow bar
+Rotor
+ Undo the hexagon head bolts of both blow bar safety fixtures on the left and right side of the rotor and take
+them out together with the lock washers. Remove the lock plates.
+ Remove both temperature sensors on bearing casing.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 48 of 62 File name: 109794_M6_CS_EN.docx
+Before removing the blow bars, be sure to mark the positions of retaining shoes in
+the rotor with steel-stamp numbers, in order to keep the original arrangement
+when installing the new blow bars.
+IMPORTANT
+Retaining shoe Blow bar
+Blow bar safety fixture
+ Use the supplied auxiliary device for the blow bar disassembly as follows:
+ Place the auxiliary device (approx. weight: 105 kg) above the blow bar (approx. weight: 825 kg). Install
+the pins on the left and right sides.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Remove the complete unit from the rotor and make sure that heavy oscillations are avoided.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 49 of 62 File name: 109794_M6_CS_EN.docx
+ Take out the rotor securing pin and rotate the rotor to 90° so that it adopts the next position. Replace the
+next blow bar.
+ Repeat this procedure until the desired number of blow bars has been replaced.
+ Re-assemble the unit in reversed order under observance of following instructions:
+When installing the balanced blow bars, it must be ensured that the opposite blow
+bars have the same weight.
+IMPORTANT
+After installation make sure that the blow bars do not contact with impact rockers.
+If necessary, re-adjust the appropriate crushing gaps.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 50 of 62 File name: 109794_M6_CS_EN.docx
+1.7.4 Replacement of Impact Rockers
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the impact crusher, the adjacent apron feeder and the spillage conveyor in a
+way preventing the machine from any undesired movements.
+DANGER
+The machine should be opened, only granting the sight contact of the operator to
+the crusher.
+DANGER
+Upper impact rocker
+adjusting device
+Pin of upper impact
+rocker
+Housing rear part
+Upper impact rocker
+Lower impact rocker
+Lower impact rocker
+adjusting device
+Pivot point of
+housing rear part
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 51 of 62 File name: 109794_M6_CS_EN.docx

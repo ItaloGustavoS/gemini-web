@@ -1,0 +1,173 @@
+1.5.8 Replacement of Feeder Aprons
+For information regarding apron replacing refer to drawing no. 09255162.
+NOTE
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Replacement of feeder aprons is possible only directly on the drive or take-up
+tumbler in curved condition of the chain.
+It is recommended to carry out replacement of aprons on the take-up tumbler to
+avoid disassembly of the discharge box.
+IMPORTANT When the discharge box is removed, replacement is also possible on the drive
+tumbler.
+ Move the apron feeder as far as the apron to be replaced is positioned at the vertex of the take-up sprocket.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+ Sling the apron to a hoisting gear (weight approx. 128 or 147 kg), undo the fastening bolts and take out the
+apron.
+Fastening bolts Fastening nuts
+4 pcs. per side
+Eyelets for
+4 pcs. per side
+hoisting gear
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 27 of 62 File name: 109794_M6_CS_EN.docx
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Install the new apron as follows:
+ Apply graphite lubricant to the bolt thread and to the lower side of head.
+ Screw on the self-locking chain nuts so that the rounded edges are facing the chain member.
+ Tighten the bolts (3/4"-16x99) with the specified torque of 320 40 Nm.
+ Re-tighten each bolt with another half a turn.
+Tightening torque of the aprons must be documented during assembly.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 28 of 62 File name: 109794_M6_CS_EN.docx
+1.5.9 Replacement of Track Rollers
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Apron with return roller
+Return roller
+Track roller
+Spacer plate
+Chain
+Fastening screws
+ Dismantle protective guards
+ Remove aprons between two aprons with return rollers
+ Move gradually the apron feeder as far as this assembly opening is positioned in the upper run above the
+track roller to be replaced.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+WARNING, DANGER OF SQUEEZING INJURIES
+Work may only be started after power cutoff. Otherwise there is a danger of
+squeezing-off limbs.
+WARNING
+ Relieve the chain from tension (see Chapter 1.5.5).
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 29 of 62 File name: 109794_M6_CS_EN.docx
+ Sling the chain strand in the work area to a hoisting gear and lift it until the track roller is free.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Support the chain by means of suitable devices and secure it in its position.
+ Loosen fastening screws of the track roller.
+ Sling the track roller (approx. 51 kg) to a hoisting gear.
+ Loosen fastening screws of the spacer plates.
+ Lift the track roller to some 2-3 mm.
+ Draw out the spacer plates.
+ Use the hoisting gear to pull out the track roller and lower it to the ground.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Re-assembly is performed in the reversed order under observance of following instructions:
+ Make sure to observe the torques for tightening of fixing parts.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 30 of 62 File name: 109794_M6_CS_EN.docx
+1.5.10 Replacement of Return Rollers
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Dismantle protective guards
+ Move the return roller to be replaced in the upper run.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+Undo the bolted
+Return roller
+connection
+ Undo the bolted connection and pull out the return roller (approx. weight 24 kg) to the side.
+ Re-assembly is performed in the reversed order under observance of following instructions:
+ Make sure to observe the torques for tightening of the bolted connection.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 31 of 62 File name: 109794_M6_CS_EN.docx
+1.5.11 Replacement of Wear Plates
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+1.5.11.1 Replacement of apron wear plates
+ Move the apron with defective wear plate out of the feeding zone and position it so that the bolted connection
+of the wear plate and apron gets accessible between track rollers.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+Apron
+Wear plate
+ Undo the bolted connection and take out the wear plate to the side.
+ Re-assembly is performed in the reversed order under observance of following instructions:
+ Make sure to observe the torques for tightening of wear plates.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 32 of 62 File name: 109794_M6_CS_EN.docx
+1.5.11.2 Replacement of wear plates of impact segments
+ Dismantle the protective hood (180 kg) of the take-up tumbler as well as protective grating and lower them to
+the ground.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+Wear plate
+Impact rail
+ Remove various aprons according to the length of wear plates to be replaced.
+ Move this opening in the upper run so that it is positioned above the wear plates to be replaced.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+ Undo the fastening screws of the wear plates at the impact rail segment.
+ Remove the wear plates.
+ Re-assembly is performed in the reversed order under observance of following instructions:
+ Make sure to observe the torques for tightening the screws.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 33 of 62 File name: 109794_M6_CS_EN.docx
+1.6 Spillage Conveyor KGF 2490x15,1
+1.6.1 Replacement of Drive Unit
+For documentation of the geared motor see Manual 7, Register 7.2.
+NOTE
+POTENTIAL HAZARDS CAUSED BY ELECTRIC POWER
+POTENTIAL RISK OF AUTOMATIC OR UNINTENDED START OF MACHINE
+Only qualified electricians should carry out work on the power supply system.
+DANGER Make sure that machine and plant equipment subject to compulsory inspections,
+repair and maintenance work are isolated from power before such work is carried
+out. To be sure, check the isolated equipment items if they are still under voltage.
+Earth and short-circuit them and isolate other equipment in the vicinity from power
+supply.
+DANGER
+Prior to all repair and erection work, the equipment and its components should be
+isolated from power supply so that drives cannot be started by mistake while repair
+work is carried out.
+All cable connections of components to be replaced must be disconnected. After
+reassembly, cable connections must be made again!
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the spillage conveyor, the adjacent apron feeder and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Torque support
+KHF107
+Screwed connections
+of gear flange and
+geared motor
+Electrical
+connections
+Cover cap of
+shrink disk
+Geared motor
+KHF107 DRE132M4
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 34 of 62 File name: 109794_M6_CS_EN.docx

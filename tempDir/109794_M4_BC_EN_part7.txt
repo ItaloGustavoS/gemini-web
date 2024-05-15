@@ -1,0 +1,120 @@
+1.2.5 Stationary Belt Conveyor U-5
+1.2.5.1 General
+The belt conveyor U5 is a functional component of the coal conveying system between the semi-mobile
+crushing station and the second crushing plant. The conveyor U5 receives the coal from the conveyor U4
+through its hopper in the return station and carries it as far as the drive station where the material is
+transferred further to the CCH building of the next crushing station.
+The conveyor U5 runs for the most part in a closed steel conveyor bridge. The bridge is elevated at an angle
+of 7.4° only in the first section (35 m) and has further a horizontal structure.
+After the return station the magnetic separator for ferromagnetic parts is arranged. In the successive conveyor
+bridge a belt weigher and another metal detector with an adjacent selecting line are installed.
+In case of danger emergency exits are provided on the left and right side of the steel bridge. The respective
+escape routes lead downstairs via ladders at the columns of the conveyor line.
+In the event of fire the conveyor line is protected inside the steel bridge by a fire extinguishing system. The
+supply of the fire extinguishing system is located in a container installed at the column 5 of the conveyor
+bridge.
+For the purposes of maintenance of the conveyor interior, a wash-down system is provided. Wastewater and
+roof drainage run downwards in a water collecting system to the main drainage connection.
+The belt conveyor U5 consists basically of the following components:
+ Conveyor frame,
+ Drive station,
+ Take-up station,
+ Return station,
+ Feeding hopper,
+ Discharge box with chute and adjustable baffle plate,
+ Magnetic separator,
+ Belt weigher,
+ Metal detector,
+ Carrying idler garlands, conveyor belt and belt cleaners,
+ Safety devices.
+1.2.5.2 Conveyor frame
+The conveyor gallery rests on the steel structure of the conveyor bridge and builds a connection between the
+return station and the drive station. The conveyor consists of definite number of frame sections which results
+from the conveyor length.
+Conveyor frame sections accommodate the upper run idler stations at the distance of 1,2 m. The lower run
+idler stations are positioned at the frame supports at the distance of 3 m. All conveyor frame sections have a
+system length of 3 m. Each frame section consists of 2 stringers made from longitudinally arranged steel
+profile and mounted on the steel structure together with the frame supports at the distance of 3 m.
+In the area of the CCH intermediate building the frame supports stand on mounting plates which were welded
+during the assembly on the anchor plates embedded in concrete.
+The textile conveyor belt is supported in the upper run by three-piece carrying idler stations and in the lower
+run by two-piece carrying idler stations with rubber disc idlers. In the lower run belt training stations are
+additionally provided for correct belt running.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 21 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.5.3 Drive station
+The drive station is located in the head part of the U5. Between the drive station, the conveyor line and the
+return station, the belt is guided over idler stations which are fastened on the conveyor frame.
+The drive stations rests on anchor plates embedded in the concrete floor (+15m level) of the CCH
+intermediate building.
+The steel frame of the drive station is designed as a welded and bolted steel structure. It includes a discharge
+pulley and a discharge box which are mounted on the conveyor frame. The discharge pulley is also the drive
+pulley whose pillow blocks are connected with the frame. The shaft end of the drive pulley is furnished with a
+coupling half.
+The drive pulley is equipped with one drive unit which is installed laterally on the left side in the conveying
+direction next to the frame. The shaft of the gear unit is connected with the shaft of the drive pulley via a
+flange coupling.
+The power transmission between the motor and the gear unit is effected via a flexible coupling. The drive unit
+is mounted on a torsion-resistant swing base which is fastened to the drive pulley via the flange coupling and
+held on the main frame by a torque support on the motor side. A steel beam installed under the swing base
+serves as a support beam and shaft break safety. In addition, the drive unit is equipped with a backstop.
+For cleaning of the belt after discharge, one pre-scraper and one main scraper are provided.
+The discharge box is designed as a welded and bolted steel construction. Inside the discharge box, an
+adjustable baffle plate is provided to direct the coal flow centrally on the downstream conveyor belt U5.
+Sliding surfaces coming in contact with the transported material are lined with Hardox wear plates.
+1.2.5.4 Take-up station
+The take-up station is located at the column 5 of the conveyor bridge. It is a weight-operated tensioning
+station which consists of a take-up sledge, a dead weight box with ballast and a take-up pulley. The sledge
+and the dead weight box are arranged vertically in lateral guide rails.
+The conveyor belt coming from the first deflection pulley is guided downwards to the take-up sledge where it
+wraps around the take-up pulley and runs again upwards to the second deflection pulley in the lower run of
+the conveyor line.
+The guiding device of the take-up sledge is built by two longitudinal beams which are mounted on both sides
+of the conveyor bridge and fastened at the foot in concrete by means of anchor bolts.
+The take-up sledge is equipped with a V-shaped inside belt cleaner which is mounted on the take-up frame.
+The sledge and the dead weight box have lateral guiding elements intended for lateral stabilising during
+vertical movement.
+The pillow blocks of the take-up pulley are fastened in the take-up sledge. The take-up sledge and the dead
+weight box are bolted directly with each other.
+For repair and maintenance works, an auxiliary platform is provided at the height of 5,35 m. In its middle, the
+platform has a through hole. The guiding rails are mounted laterally and the take-up sledge with the dead
+weight moves vertically through. The work platform is mounted sideways on two single supports. The other
+side of the platform is connected with the column 5 of the bridge. The platform is accessible via a walkway to
+the column 5 and a ladder installed at the column.
+By reason of belt stretching and eventual movements during start-up and shutdown, the dead weight can
+move in the vertical direction between the limit values. The travel path of the take-up sledge is controlled and
+secured by limit switches.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 22 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.5.5 Return station with feeding hopper
+The return station with the feeding hopper is installed on an inclined concrete surface with anchor bolts.
+The steel construction of the return station includes a frame and a hopper. It is a welded and partly bolted
+steel structure. The frame of the feeding hopper stands on stable support feet with anchor bolts installed in
+the bottom plates.
+The feeding hopper is located in the tail part (end section of U5) and is used for receiving of conveyed
+material from the belt conveyor U4. It is designed as a stable welded and bolted steel construction which is
+connected with the frame via bolted connections. The lateral walls of the hopper are lined with wear plates.
+The feeding box is sealed on both sides along the belt by adjustable rubber strips.
+In the feeding zone, reinforced garland stations are applied. The feeding garlands are fastened by pins with
+wedges. In the outlet zone the upper run garlands are hung.
+For belt directing, in the lower run a self-centring belt training station is provided as well as an inside belt
+cleaner and a diagonal scraper.
+The return pulley is precisely aligned and fastened on the frame via pillow blocks. It is covered by a protective
+hood to prevent access to the rotating parts. The protective hood accommodates sensors for slip control.
+The cover of the feeding hopper and the sealed transfer point between the chute and the hopper facilitate
+reduction of dust emissions.
+The return station with hopper are protected on both sides by guard gratings.
+1.2.5.6 Pulleys
+The drive pulley has herringbone rubber lining and is supported by pillow blocks with anti-friction bearings
+with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+The return, take-up and deflection pulleys have plain rubber lagging and are supported by pillow blocks with
+antifriction bearings with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+1.2.5.7 Idlers
+Rigid carrying idler stations consist of three idlers with equal length. The idlers are rigidly fastened to the idler
+supports. Rigid return idler stations consist of two idlers with equal length. The return run stations have rubber
+disc idlers in order to present very narrow surfaces for adhesion and thus to reduce the tendency for material
+build up. The idlers are rigidly fastened to the idler supports. Transfer points are equipped with impact idler
+garlands.
+Idlers of the same type are interchangeable. The bearings are lubricated for lifetime.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 23 of 25 File name: 109794_M4_BC_EN_.docx

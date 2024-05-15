@@ -1,0 +1,166 @@
+ Remove all cable connections from the drive unit.
+ Use lifting eyes for suspension of the drive unit to the hoist gear and secure it against tilting over. When
+choosing the hoisting and slinging equipment, take account of the drive unit weight (approx. 2780 kg)!
+ Loosen the locking screws of the shrink disc evenly and one after the other.
+ Undo the fasteners of the torque support.
+ Use a pulling device to carefully pull off the drive unit. If the locking collar does not come away from the inner
+ring automatically, it is possible to undo a few locking screws and screw them into the adjacent forcing
+threads.
+ Pull the shrink disc off the hub, observing the following:
+ Any rust that may have formed between the hub and the end of the shaft must be removed beforehand.
+ Lift the drive unit and put it safely down on the ground.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Bring the components to the repair site for further disassembly.
+ Re-assemble the unit in reversed order under observance of following instructions:
+ Degrease the hub and the shaft. The outside surface of the hub can only be greased in the area of the
+shrink disc seat.
+ Check the correct position of the shrink disc. The shrink disc is positioned correctly when it is in contact
+with the shaft shoulder.
+ Push carefully the drive unit at the hub onto the shaft. Perform the mounting operation slowly to allow
+the compressed air to escape around the outside of the shaft.
+ Tighten all locking screws at evenly spaced intervals until the front lateral surfaces of the locking collar
+and inner ring are in alignment.
+ Note the tightening torques.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 12 of 62 File name: 109794_M6_CS_EN.docx
+Locking collar Correct position of the
+A shrink disc
+Locking screw Inner ring
+For further information regarding assembly/disassembly of the drive unit please
+refer to the manufacturer documentation (see Assembly and Operating
+Instructions for the drive unit PHF072 KF157 DRE280S4).
+For the bolt securing of the torque support a new split pin must be used! After
+reassembly the split pin ends must be bent open.
+IMPORTANT
+ Restore all electrical connections.
+ Test operation of the equipment without conveyed material.
+After reassembly inspect the gear unit oil level in accordance with the lubrication
+schedule. Add oil if needed.
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 13 of 62 File name: 109794_M6_CS_EN.docx
+1.5.2 Replacement of Drive Shaft with Drive Sprockets
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+ Advance the chain in a way that the chain locks to be opened are positioned above the drive sprockets.
+Driven sprocket wheel
+Drive shaft
+Chain lock
+ Isolate the drive unit of apron feeder from power supply and secure it against unintended start-up.
+WARNING, DANGER OF SQUEEZING INJURIES
+Work may only be started after power cutoff. Otherwise there is a danger of
+squeezing-off limbs.
+WARNING
+ Remove safety guards and attachment parts.
+ Remove discharge hood and discharge box.
+ Dismount the drive unit (see Chapter 1.5.1).
+ Relieve the chain from tension (see Chapter 1.5.5).
+ Sling the apron over the chain locks to a hoisting gear (approx. weight 128 kg) and secure against
+movement.
+ Use a hoisting gear to secure the lower chain strands in the area of chain locks to be opened against falling
+down
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 14 of 62 File name: 109794_M6_CS_EN.docx
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Open the chain locks by taking out the apron bolts and remove the apron.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Let down the lower chain strands and fix them in their position.
+ Use a hoisting gear to lift carefully the upper chain strands and fix them in their position.
+ Secure the driving shaft (approx. weight 1734 kg) by means of a hoisting gear.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Unscrew the bearing bolts and lift out the drive shaft by means of a hoisting gear.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Bring the components to the repair site for further disassembly.
+ Pull off the bearing with auxiliary device.
+ Dismount the drive sprockets by loosening the taper key.
+ Re-assembly of the components is performed in the reversed order under observance of following
+instructions:
+ Note the tightening torque of the bearing bolts M36 =2100 Nm
+ Re-installation of the aprons.
+ Tension the chain (see Chapter 1.5.4).
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 15 of 62 File name: 109794_M6_CS_EN.docx
+1.5.3 Replacement of Chain Strands
+For documentation of the chain strands see Manual 7, Register 7.1.2.
+NOTE
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Each of the two chains of the apron feeder consists of two chain segments which
+are linked by chain locks. The following instruction describes the procedure of
+replacing two of the chain segments running side by side.
+NOTE
+Apron with return roller
+Carrying roller
+Carrying structure
+Chain segments to be replaced
+ Suspend protective guard of the take-up tumbler to a suitable hoisting gear and secure it. When selecting the
+chain hoists and slinging equipment, take account of the protective guard weight (180 kg).
+ Dismount protective guard, lift it by means of the hoisting gear and put down safely on the ground.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 16 of 62 File name: 109794_M6_CS_EN.docx
+ Dismantle aprons except aprons with return rollers and aprons with chain locks.
+Aprons
+Take-up tumbler
+Driven tumbler
+Apron with return roller
+ Move gradually the apron feeder as long as one apron with the chain link is positioned frontally at the
+reversal point of the chain at the take-up tumbler. The chain segments to be replaced are located in the
+lower run.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+ Use a hoisting gear to secure the lower run chain strand next to the chain lock to be opened.
+WARNING, DANGER OF SQUEEZING INJURIES
+Opening and closing of the chain must be performed by an authorized specialist
+company.
+WARNING
+ Relieve the chain from tension (see Chapter 1.5.5).
+Prior to chain opening, it is necessary to fix the take-up tumbler in its position. For
+this purpose, tighten again the fastening screws between the bearing block of the
+take-up tumbler and the carrying frame.
+NOTE
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 17 of 62 File name: 109794_M6_CS_EN.docx
+Apron above chain lock
+Loosen the screws
+Locking link
+ Open the chain by undoing the screwed connection of the apron above the chain lock (weight 128 kg) and
+put down carefully the lower chain strand (lower run).
+ Repeat this procedure with the other chain.
+ Fasten the new chain strands to the ends of the old chains in the upper run.
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+Position the chain strands in a way so that plugs in the chain bolts face outwards.
+HINWEIS
+ Sling the old chains (single mass 1200 kg) in the lower run to the hoisting gear.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 18 of 62 File name: 109794_M6_CS_EN.docx

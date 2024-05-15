@@ -1,0 +1,61 @@
+1.2.5.8 Belt cleaning equipment
+The conveyor U5 is equipped with one primary and one secondary belt scrapers at the discharge pulley. A V-
+type plow scraper over the full belt width is installed in the return run before the take-up pulley as well as
+before the return pulley, where material can be caught between the belt and pulley. The V-type plow scraper
+is mounted in a way preventing the steel frame from reaching the belt after the wiper rubber has completely
+worn down.
+All pulleys in contact with the dirt side of the belt have a pulley scraper to remove adhering material from the
+pulley.
+1.2.5.9 Magnetic separator
+The magnetic separator is a belt conveyor, which is orthogonally installed above the main conveyor U-5
+behind the return station. In the middle between the lower belt and the upper belt, there is installed a strong
+electrical magnet which separates any ferrous parts from the conveyed material flow while the conveyor is
+running. From the area in the middle it carries the undesirable metal components sideward, where the
+magnetic field is lower, and lets them fall into a collection container for recyclable metal parts.
+The metal piece discharge conveyor is hung in a steel construction with possibility of adjustment relatively to
+the conveyor line. The steel construction consists of an upper and lower part. The lower part is rigidly
+fastened in the concrete ground by means of anchor bolts in the bottom plates.
+The steel construction is located at the beginning of the conveyor bridge and protected against atmospheric
+effects by a roof. For the purposes of maintenance and assembly of the magnetic separator, the upper part of
+the steel construction can be removed and laid down sideways.
+The magnetic separator starts up only when the metal detector at the belt conveyor U-4 announces incoming
+metal and it runs for several minutes. The magnetic separator doesn’t run continuously together with the
+running conveyor U-5.
+1.2.5.10 Belt weigher
+The belt weigher is installed behind the feeding hopper U5. It is designed to acquire the instantaneous flow
+rate. The belt scale consists of at least one load cell, a speed sensor and the processing electronics. The load
+cell determines the weight of the load on a certain belt section (1 m), and the speed transducer measures the
+belt speed. The product of the two measured variables results in the current feed rate in t/h. The data
+provided are passed over to the existing interface of the PLC for further evaluation.
+The belt weigher is fastened on the stringers of the conveyor frame and equipped in the upper run with two 3-
+piece idler stations for weight acquisition. The belt weigher is installed in the first frame section of the
+conveyor line which is located at the beginning of the conveyor bridge.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 24 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.5.11 Metal detector
+Behind the belt weigher, there is the second metal detector installed to recognize remaining undetected metal
+parts in the material flow. After detection of metal foreign bodies, a discharge station gets activated to
+facilitate identification of the relevant location.
+In case of detection of metal parts in the material flow, the metal detector stops the belt conveyor.
+The metal detector is composed of a frame with a search coil. The metal detector generates an
+electromagnetic field. If a metal object enters the field, the measurement signal is deflected in a certain
+direction. When the metal object leaves the field, a deflection occurs in the opposite direction. If both
+triggering limits of the signal are exceeded, the metal relay is switched.
+An electronic circuit with an adjustable trigger enables the detection and display of metal elements.
+An easy access to the conveyor is provided in the selecting line section.
+1.2.5.12 Safety devices
+All exposed rotating parts with the exception of the idlers are protected against accidental contact by boxes,
+wire mesh guards or railings.
+In cases of emergency the equipment can be turned off by means of emergency switches with relevant pull
+cords installed on both sides of the conveyor line. Actuation of the pull rope triggers immediately standstill of
+the conveyor and of the technologically interconnected conveying devices.
+Visual and acoustic start-up signals are provided by a warning lamp and a horn.
+Safety and warning devices include also:
+– Limit switches for take-up way limit,
+– Misalignment switch,
+– Speed sensor and/or slip controller,
+– Belt damage control,
+– Filling level sensor of hopper,
+– Supplying of LED-lamps for the entire conveyor.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 25 of 25 File name: 109794_M4_BC_EN_.docx

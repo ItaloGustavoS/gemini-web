@@ -1,0 +1,162 @@
+ Move gradually the apron feeder in the conveying direction. In order to avoid damages of the carrying frame,
+the chain segments should run in the lower run over a beam (e.g., wooden beam) positioned at the take-up
+tumbler and be carefully pulled out by means of a hoisting gear.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Dismount step-by-step the aprons with return rollers from the lower chain strand (lower run) and fasten them
+on the new chain strand in the upper run.
+ After the end position of the new chain strands has been reached, detach the old chain segments from the
+new ones at the chain lock.
+ Bring the both chain strands in the upper and lower run together at the reversal point of the chain at the take-
+up tumbler using rope hoists and connect them with each other in the chain lock.
+ After the new chain strands have been installed, it is possible to mount aprons (128 kg and 147 kg).
+ Re-install protective guard of the take-up tumbler.
+ Loosen the screwed connection between the bearing block of the take-up tumbler and the carrying frame.
+ Tension the chain (see Chapter 1.5.4).
+When the conveyor moves, no persons shall be present on or in the apron feeder.
+Note the higher risk of injuries.
+DANGER
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 19 of 62 File name: 109794_M6_CS_EN.docx
+1.5.4 Setting Chain Pre-tension
+For information regarding chain tensioning refer to drawing no. 09136447.
+NOTE
+For documentation of the tensioning device see Manual 7, Register 7.1.3.
+NOTE
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+The tension of the apron chains can be adjusted by the take-up sprocket wheels
+stepwise.
+This tension adjustment is effected by hydraulic cylinders.
+The maximum admissible tension force on each side is 100 kN.
+IMPORTANT
+ Arrange the hydraulic cylinders in level of the bearing axis as shown in the drawing and pre-stress them
+slightly.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 20 of 62 File name: 109794_M6_CS_EN.docx
+ Loosen the fastening bolts between take-up sprocket wheels and carrying frame (do not remove the
+fastening bolts).
+ Before loosening the fastening bolts make sure that the tensioning cylinders provide sufficient initial tension
+in order to avoid jamming of the fastening bolts.
+ Re-adjust as well the fastening bolts between take-up sprocket wheels and carrying frame.
+ Shift the take-up sprocket wheel until the desired position is reached. Make sure that the take-up sprocket is
+shifted evenly and simultaneously on both sides in order to avoid jamming and tripping from the guide
+arrangement.
+ Add or remove shim plates and secure them by means of holding clamps.
+ Bolt together take-up sprocket wheels and supporting frame.
+ Remove the hydraulic cylinders.
+ Perform test operation of the apron feeder without conveyed material.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 21 of 62 File name: 109794_M6_CS_EN.docx
+1.5.5 Relieving the Chain from Tension
+For documentation of the tensioning device see Manual 7, Register 7.1.3.
+NOTE
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+The chain can be relieved from tension by means of two hydraulic cylinders as follows:
+ Position the tensioning cylinders in level of the bearing axis.
+ Pre-stress slightly the tensioning cylinders.
+ Loosen the fastening bolts between bearing block and carrying frame (do not take remove the screws).
+ Before loosening the fastening bolts make sure that the tensioning cylinders provide sufficient initial tension
+in order to avoid jamming of the fastening bolts.
+ If necessary, adjust the fastening screws between bearing block and carrying frame.
+ Remove the shim plates.
+ In order to fix the take-up tumbler tighten again the fastening screws between bearing block and carrying
+frame.
+ Relieve the tensioning cylinders from tension and remove them.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 22 of 62 File name: 109794_M6_CS_EN.docx
+1.5.6 Replacement of Gear Rim Segments
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Replacement of gear rim segments is performed at the take-up tumbler or at the
+driven tumbler.
+NOTE
+ Remove protective gratings (on the left and right side)
+ If necessary, remove protective hood of the take-up tumbler, note the protective hood weight (180 kg).
+ Move the gear rim segment to be replaced so that it is not in engagement with the chain.
+Gear rim segment
+ Isolate the drive unit of apron feeder from power supply and secure it against unintended start-up.
+WARNING, DANGER OF SQUEEZING INJURIES
+Work may only be started after power cutoff. Otherwise there is a danger of
+squeezing-off limbs.
+WARNING
+ Sling the apron strands to a hoisting gear and secure against movement.
+ Undo the bolted connections between the gear rim segment and sprocket wheel.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 23 of 62 File name: 109794_M6_CS_EN.docx
+ Pull out the gear rim segment (approx. 11 kg) to the side and put it safely down.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Re-assembly of the components is performed in the reversed order under observance of following
+instructions:
+ Ream the new gear rim segment in installed condition together with the chain wheel bore to Ø21 H7
+(see sketch).
+New screw connections must be used for the reassembly of the tooth segments!
+Tighten the fixing bolts M20x65 of the tooth segments with the prescribed torque
+of 165 Nm and lock the nuts by locknuts!
+IMPORTANT
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 24 of 62 File name: 109794_M6_CS_EN.docx
+1.5.7 Removal of Take-up Tumbler Shaft
+Prior to repair work, run the Semi mobile crushing station empty and put it out of
+operation.
+Block the apron feeder, the adjacent spillage conveyor and the impact crusher in a
+way preventing the machine from any undesired movements.
+DANGER
+Undo the fastening screws
+of pedestal bearings
+Protective
+guard
+ Remove protective guard taking into consideration the weight of the protective guard (180 kg).
+ Move the apron feeder as far as one of the two aprons with the chain lock is positioned at the reversal point
+of the chain at the take-up sprocket.
+ Isolate the drive unit from power supply and secure it against unintended start-up.
+WARNING, DANGER OF SQUEEZING INJURIES
+Work may only be started after power cutoff. Otherwise there is a danger of
+squeezing-off limbs.
+WARNING
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 25 of 62 File name: 109794_M6_CS_EN.docx
+ Completely relieve the chain from tension (see Chapter 1.5.5).
+ Sling the apron above the chain locks to a hoisting gear (approx. weight 128 kg).
+ Use a hoisting gear to secure the lower chain strands in the area of chain locks to be opened against falling
+down
+WARNING, DANGER OF SQUEEZING INJURIES
+Utmost care is required when suspending or threading-in auxiliary tools for lifting
+of loads (chains, lifting belts, ropes). Note the risk of squeezing-off limbs.
+WARNING
+ Open the chain locks by unscrewing the apron bolt connections, remove the apron.
+ Put the lower chain strands (lower run) down on the ground.
+ Use a hoisting gear to lift the upper chain strands (upper run) from the wheel sprockets and secure them
+against moving.
+ Secure the take-up shaft with sprocket wheels including gear rims (total mass approx. 1095 kg) by means of
+a hoisting gear.
+ Loosen fastening screws of pedestal bearings and use a hoisting gear to lift out and lower the take-up shaft.
+CAUTION, SUSPENDED LOADS!
+Persons are not permitted to stay or work under suspended loads. Every movement
+must be continuously monitored by several persons. The operator and monitoring
+personnel must always remain in contact.
+DANGER
+ Bring the components to the repair site.
+ Re-assembly is performed in the reversed order under observance of following instructions:
+ Note the tightening torque of the pedestal bearing bolts
+ Re-installation of the aprons.
+ Tension the chain (see Chapter 1.5.4)
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 26 of 62 File name: 109794_M6_CS_EN.docx

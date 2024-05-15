@@ -1,0 +1,110 @@
+The necessary pre-tension of the belt is reached electrically (the value is set). If due to the belt elongation the
+value changes, the rope drum control is actuated and the value is adjusted. After extension the take-up forces
+must be set again.
+The second drive pulley installed in the rear part is a one-side drive pulley whose pillow blocks are connected
+with the frame of the tail section. One shaft end of the drive pulley is furnished with a coupling half. The
+second drive pulley of the conveyor U3 is equipped with one drive unit which is installed laterally on the left
+side in the conveying direction next to the frame.
+The shaft of the gear unit is connected with the shaft of the drive pulley via a flange coupling.
+The power transmission between the motor and the gear unit is effected via a flexible coupling. The drive unit
+is mounted on a torsion-resistant swing base which is fastened to the drive pulley via the flange coupling and
+held on the main frame by a torque support. In addition, the drive unit is equipped with a backstop.
+1.2.3.1 Return station with feeding hopper
+The return station with the feeding hopper is mounted on a pontoon. Under the pontoon an anchoring
+construction is embedded. The anchoring consists of a pivot plate, strings and two ground anchors. The
+pontoon and the pivot plate are connected via a pin of the plate.
+The steel construction of the return station includes a frame and a hopper. It is a welded and partly bolted
+steel structure. The frame of the feeding hopper is fastened on the pontoon by means of bolted connections.
+The feeding hopper is located in the tail part (end section of U3) and is used for receiving of conveyed
+material from the belt conveyor U2. It is designed as a stable welded and bolted steel construction which is
+connected with the frame via bolted connections. The lateral walls of the hopper are lined with wear plates.
+The feeding box is sealed on both sides along the belt by adjustable rubber strips.
+The rubber curtains mounted in the feeding hopper are intended to reduce dust emissions. The hopper is
+protected by covers.
+In the feeding zone, reinforced garland stations are applied. The feeding garlands are fastened by pins with
+wedges. In the outlet zone the upper run garlands are hung.
+For belt directing, in the lower run a self-centring belt training station is provided as well as an inside belt
+cleaner and a diagonal scraper.
+The return pulley is precisely aligned and fastened on the frame via pillow blocks. It is covered by a protective
+hood to prevent access to the rotating parts.
+The return station with hopper are protected on both sides by guard gratings.
+1.2.3.2 Pulleys
+The drive pulleys have herringbone rubber lining and are supported by pillow blocks with anti-friction bearings
+with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+The return and take-up pulleys have plain rubber lagging and are supported by pillow blocks with antifriction
+bearings with adapter sleeve. The shaft and pulley tube are connected by taperlock connections.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 15 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.3.3 Idlers
+Both the carrying run and the return run of the conveyor belt are supported by garland idlers. The carrying
+garland stations consist of three idlers with equal length and hook suspension. The V-type return garland
+stations consist of two idlers with equal length and chain suspension. The return run stations have rubber disc
+idlers in order to present very narrow surfaces for adhesion and thus to reduce the tendency for material build
+up. Transfer points are equipped by impact idler garlands with bolt and wedge suspension.
+Idlers of the same type are interchangeable. The bearings are lubricated for lifetime.
+1.2.3.4 Belt cleaning equipment
+The conveyor U3 is equipped with one primary and one secondary belt scrapers at the discharge pulley. A V-
+type plow scraper over the full belt width is installed in the return run before the take-up pulley as well as
+before the return pulley, where material can be caught between the belt and pulley. The V-type plow scraper
+is mounted in a way preventing the steel frame from reaching the belt after the wiper rubber has completely
+worn down.
+All pulleys in contact with the dirt side of the belt have a pulley scraper to remove adhering material from the
+pulley.
+1.2.3.5 Safety devices
+All exposed rotating parts with the exception of the idlers are protected against accidental contact by boxes,
+wire mesh guards or railings.
+In cases of emergency the equipment can be turned off by means of emergency switches with relevant pull
+cords installed on both sides of the conveyor line. Actuation of the pull rope triggers immediately standstill of
+the conveyor and of the technologically interconnected conveying devices.
+Visual and acoustic start-up signals are provided by a warning lamp and a horn.
+Safety and warning devices include also:
+– Limit switches for take-up way limit,
+– Travel limit of take-up carriage,
+– Misalignment switch,
+– Speed sensor and/or slip controller,
+– Belt damage control,
+– Filling level sensor of hopper,
+– Supplying of LED-lamps for the entire conveyor.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 16 of 25 File name: 109794_M4_BC_EN_.docx
+1.2.4 Stationary Belt Conveyor U-4
+1.2.4.1 General
+The belt conveyor U4 is a functional component of the coal conveying system between the semi-mobile
+crushing station and the second crushing plant. The conveyor U4 receives the coal from the conveyor U3
+through its hopper in the return station and carries it as far as the drive station where the material is
+transferred further to the belt conveyor U5. Additionally, the drive station is equipped with a metal detector.
+The conveyor U4 has a horizontal structure. It consists basically of the following components:
+ Conveyor frame,
+ Combined drive and take-up station,
+ Return station,
+ Feeding hopper,
+ Discharge box with chute and adjustable baffle plate,
+ Carrying idler garlands, conveyor belt and belt cleaners,
+ Metal detector,
+ Safety devices.
+1.2.4.2 Conveyor frame U4
+The conveyor frame rests on steel sleepers and builds a connection between the return station and the
+combined drive/take-up station. The conveyor consists of definite number of frame sections which results
+from the conveyor length.
+Each conveyor section includes four upper run garlands and two lower run garlands. The idler spacing in the
+upper run comprises 1,6 m and in the lower run 3,2 m. All conveyor sections have a system length of 6,4 m.
+Each section consists of two supports on which longitudinal stringers made from profile steel are mounted.
+The spacing between the supports makes 3,2 m. On the level of lower run garland suspension the supports
+are fastened to the frame construction by means of angles. The sleeper is also integrated in the supports of
+the conveyor sections.
+The textile conveyor belt is supported in the upper run by three-piece garland stations and in the lower run by
+two-piece garland stations with rubber disc idlers. The entire conveyor frame is equipped with cable hooks
+and segmental arch covers.
+The conveyor is furnished with walkways which provide safe access to the components requiring regular
+maintenance as well as in case if corresponding operational, service and inspection works are needed.
+Components which can endanger operation and maintenance personnel are equipped with effective and
+easily mount/dismountable protective devices/guards.
+1.2.4.1 Combined drive and take-up station
+The drive station with the integrated take-up system is located in the head part (end of conveying line) of the
+U4. The supporting structure consists of welded and partly bolted sheet and sectional steel members.
+Between the drive station and the conveyor line, the belt is guided over a connecting bridge.
+The drive station rests on pontoons, has two drive pulleys and two drive units. The three main frame sections
+are designed as framework constructions furnished with walkways. The belt is directed in the upper run over
+the conveyor frame towards the drive station.
+Project: Stanari Revision: 0
+Project no.: 109794 Page: 17 of 25 File name: 109794_M4_BC_EN_.docx
