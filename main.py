@@ -175,7 +175,7 @@ if uploaded_files:
             with st.chat_message(role_to_streamlit(message.role)):
                 st.markdown(message.parts[0].text)
 
-        # Interface para a consulta do usuário
+# Interface para a consulta do usuário
 if prompt := st.chat_input("Digite sua consulta aqui:"):
     st.chat_message("user").markdown(prompt)
     # Enviando a mensagem do usuário e recebendo a resposta
@@ -184,9 +184,9 @@ if prompt := st.chat_input("Digite sua consulta aqui:"):
         # Detecta o idioma da consulta
         language_code = detect_language(prompt)
         # Realiza a busca
-    resultado = gerar_e_buscar_consulta(prompt, df, model)
-
-    response_obj = model1.generate_content(prompt)
+        resultado = gerar_e_buscar_consulta(prompt, df, model)
+        # Gera a resposta com o modelo Gemini 1.5 Pro
+        response_obj = model1.generate_content(prompt)
 
     # Exibindo a resposta do assistente
     with st.chat_message("assistant"):
