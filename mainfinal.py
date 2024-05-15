@@ -114,3 +114,20 @@ def embed_fn(title, text):
     else:
         st.write(f"Erro: O conteúdo do documento '{title}' está vazio.")
         return np.zeros(1)
+
+
+# Função para gerar e buscar consulta
+def gerar_e_buscar_consulta(consulta, base, model):
+    embedding_da_consulta = genai.embed_content(
+        model=model, content=consulta, title="Consulta", task_type="RETRIEVAL_DOCUMENT"
+    )["embedding"]
+    produtos_escalares = np.dot(np.stack(base["Embeddings"]), embedding_da_consulta)
+    indice = np.argmax(produtos_escalares)
+    return base.iloc[indice]["Conteudo"]
+
+
+# Interface do Streamlit para carregar arquivos
+uploaded_files = st.file_uploader(
+    "Carregue seus arquivos PDF aqui:", type="pdf", accept_multiple_files=True
+)
+base_dir = "tempDir"
