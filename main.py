@@ -46,6 +46,7 @@ for message in st.session_state.chat.history:
 
 if prompt := st.chat_input("O que você gostaria de saber ?"):
     st.chat_message("user").markdown(prompt)
-    response = st.session_state.chat.send_message(prompt)
+    with st.spinner("Processando Resposta..."):
+        response = st.session_state.chat.send_message(prompt)
     with st.chat_message("assistant"):
         st.markdown(response.text)
