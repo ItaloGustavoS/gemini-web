@@ -25,6 +25,7 @@ def detect_language(text):
         return "en"  # Retorna inglês como padrão se a detecção falhar
 
 
+# Função para extrair e salvar o conteúdo de um PDF
 def extrair_e_salvar_conteudo(pdf_path, output_dir, max_size=9999):
     documents = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -90,6 +91,7 @@ def process_multiple_files(uploaded_files, base_dir):
     return all_documents
 
 
+# Função para calcular embeddings de um documento
 def embed_fn(title, text):
     # Limitar o tamanho do texto para 9500 bytes para evitar exceder o limite de 10000 bytes quando incluídos metadados
     byte_limit = 9500
@@ -123,26 +125,28 @@ def gerar_e_buscar_consulta(consulta, base, model):
     return base.iloc[indice]["Conteudo"]
 
 
-# Interface do Streamlit para carregar arquivos
+# Interface do Streamlit para carregar arquivos PDF
 uploaded_files = st.file_uploader(
     "Carregue seus arquivos PDF aqui:", type="pdf", accept_multiple_files=True
 )
 base_dir = "tempDir"
 
+# Verifica se foram carregados arquivos PDF
 if uploaded_files:
     if not os.path.exists(base_dir):
         os.makedirs(base_dir)
     all_documents = []
 
+    # Processa cada arquivo PDF carregado
     for uploaded_file in uploaded_files:
         file_path = os.path.join(base_dir, uploaded_file.name)
         with open(file_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
-
+        # Extrai e salva o conteúdo do PDF
         documents = extrair_e_salvar_conteudo(file_path, base_dir)
         all_documents.extend(documents)
 
-    # Criando DataFrame dos documentos
+    # Se houver documentos, cria um DataFrame e calcula os embeddings
     if all_documents:
         df = pd.DataFrame(all_documents)
         df["Embeddings"] = df.apply(
@@ -150,28 +154,29 @@ if uploaded_files:
         )
         st.write(df)
 
-        # Definindo o modelo
+        # Define o modelo para busca
         model = "models/text-embedding-004"
 
-        # Interface do usuário para consulta
+        # Interface para a consulta do usuário
         consulta_input = st.text_input("Digite sua consulta aqui:")
         if st.button("Buscar"):
+            # Detecta o idioma da consulta
             language_code = detect_language(consulta_input)
-            # language_code = detect_language(consulta_input)
+            # Realiza a busca
             resultado = gerar_e_buscar_consulta(consulta_input, df, model)
-            # resultado_formatado = f"<strong>Resultado da Consulta:</strong><pre>{resultado}</pre>"
-            # st.markdown(resultado, unsafe_allow_html=True)
 
+            # Configuração para geração de texto
             generation_config = {"temperature": 0.5, "candidate_count": 1}
             prompt = f"First, check the source language of the text written in: {consulta_input}, probably {language_code}. Reference the text in the provided documentation. Format the following content using a table of contents and a clear structure. When necessary, use tables to organize information already translated into the identified language. Ensure the result is clearly indexed and formatted for readability. The formatting should accurately reflect the technical details and guidelines described in the documentation:\n\n{{resultado}}"
 
+            # Gera o texto formatado
             model_2 = genai.GenerativeModel(
                 "models/gemini-1.5-pro-latest", generation_config=generation_config
             )
             response_obj = model_2.generate_content(prompt)
 
-            # Extraindo a resposta formatada
+            # Extrai a resposta formatada
             response_text = response_obj.candidates[0].content.parts[0].text
 
-            # Exibindo a resposta formatada como HTML
+            # Exibe a resposta formatada em HTML
             st.markdown(response_text, unsafe_allow_html=True)

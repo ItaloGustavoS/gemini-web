@@ -13,6 +13,10 @@ genai.configure(api_key=GOOGLE_API_KEY)
 # Definindo o modelo
 model = "models/text-embedding-004"
 
+# Inicializando o chat na sessão
+if "chat" not in st.session_state:
+    st.session_state.chat = model.start_chat(history=[])
+
 # Configuração da página do Streamlit
 st.set_page_config(page_title="FAM Help")
 
