@@ -10,15 +10,6 @@ from langdetect import detect
 GOOGLE_API_KEY = "AIzaSyCeenyy-kc_VW9ljErzH2OecYx9NtKt-2U"
 genai.configure(api_key=GOOGLE_API_KEY)
 
-
-# Função para detectar o idioma do texto
-def detect_language(text):
-    try:
-        return detect(text)
-    except:
-        return "en"  # Retorna inglês como padrão se a detecção falhar
-
-
 # Configuração do Streamlit
 st.title("FAM Help - Document Processor and Query Bot")
 
