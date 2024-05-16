@@ -60,6 +60,7 @@ def detect_language(text):
 
 
 # Função para extrair e salvar o conteúdo de um PDF
+@st.cache_data
 def extrair_e_salvar_conteudo(pdf_path, output_dir, max_size=9999):
     documents = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -110,6 +111,7 @@ def extrair_e_salvar_conteudo(pdf_path, output_dir, max_size=9999):
 
 
 # Lógica para lidar com múltiplos arquivos
+@st.cache_data
 def process_multiple_files(uploaded_files, base_dir):
     all_documents = []
     if not os.path.exists(base_dir):
@@ -126,6 +128,7 @@ def process_multiple_files(uploaded_files, base_dir):
 
 
 # Função para calcular embeddings de um documento
+@st.cache_data
 def embed_fn(title, text):
     # Limitar o tamanho do texto para 9500 bytes para evitar exceder o limite de 10000 bytes quando incluídos metadados
     byte_limit = 9500
@@ -150,6 +153,7 @@ def embed_fn(title, text):
 
 
 # Função para gerar e buscar consulta
+@st.cache_data
 def gerar_e_buscar_consulta(consulta, base, model):
     embedding_da_consulta = genai.embed_content(
         model=model, content=consulta, title="Consulta", task_type="RETRIEVAL_DOCUMENT"
