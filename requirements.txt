@@ -45,7 +45,7 @@ PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
 referencing==0.35.1
-requests==2.31.0
+requests==2.32.0
 rich==13.7.1
 rpds-py==0.18.1
 rsa==4.9
