@@ -20,7 +20,7 @@ grpcio==1.63.0
 grpcio-status==1.62.2
 httplib2==0.22.0
 idna==3.7
-Jinja2==3.1.4
+Jinja2==3.1.5
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 markdown-it-py==3.0.0
